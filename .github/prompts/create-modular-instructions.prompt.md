@@ -1,7 +1,7 @@
 ---
 mode: agent
 description: Analyze the repository and create modular instruction files for GitHub Copilot
-tools: ['codebase', 'editFiles', 'search', 'github-remote']
+tools: ['search/codebase', 'edit/editFiles', 'search', 'github-remote/*']
 ---
 
 # Create Modular Copilot Instructions
