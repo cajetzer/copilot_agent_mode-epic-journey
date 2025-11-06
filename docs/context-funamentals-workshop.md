@@ -36,7 +36,7 @@ Clone [https://github.com/cajetzer/copilot_agent_mode-epic-journey/](https://git
 
 ## 6. Plan the Implementation of a New Feature (Plan Mode)
 - Review instructions in `.github/chatmodes/Plan.chatmode.md`
-- Try: `/plan-qna implement a new welcome page; note questions asked to build better plan`
+- Try: `/plan-qna implement a new help page; note questions asked to a build better plan`
 
 ---
 
